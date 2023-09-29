@@ -1,0 +1,21 @@
+leftnav:
+- identifier: external--1180594484-1684528534515
+  name: About Terrascope
+  url: https://terrascope.mit.edu/overview/
+  weight: 10
+- identifier: external-882483468-1687000588413
+  name: Solving Complex Problems
+  url: https://terrascope.mit.edu/portfolio_page/12-000/
+  weight: 20
+- identifier: external--114607211-1687000711291
+  name: Design for Complex Environmental Issues
+  url: https://terrascope.mit.edu/portfolio_page/1-016/
+  weight: 30
+- identifier: external-1103286771-1687000615595
+  name: Terrascope Radio
+  url: https://terrascope.mit.edu/portfolio_page/sp-360/
+  weight: 40
+- identifier: external-1611017699-1684528590488
+  name: Past Years' Topics
+  url: https://terrascope.mit.edu/past-years-topics/
+  weight: 50
